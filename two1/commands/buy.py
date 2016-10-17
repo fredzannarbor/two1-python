@@ -1,5 +1,5 @@
 """Buy from a machine-payable endpoint."""
-# standart python imports
+# standard python imports
 import re
 import sys
 import json
